@@ -14,7 +14,7 @@ This is a Dissertation Project titled **"Leveraging Machine Learning and NLP for
   - 4. Best EV Recommendation: Recommends the top EV models based on user-selected/ described preferences.
 
 ## 🗂️ Project Structure
-
+```
 EV-Market-Analysis/
 │
 ├── data/
@@ -44,3 +44,4 @@ EV-Market-Analysis/
 ├── EV_Market_Analysis.ipynb
 ├── requirements.txt
 └── README.md
+```
