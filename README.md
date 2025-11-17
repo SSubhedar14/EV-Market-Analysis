@@ -1,6 +1,5 @@
 # EV Market Analysis
-
-This is a Dissertation Project titled **"Leveraging Machine Learning and NLP for Electric Vehicle Market Analysis and Product Launch Success"**. It combines exploratory data analysis (EDA), natural language processing (NLP), and machine learning (ML) models to gain insights from EV reviews and forecast market trends.
+###This is a Dissertation Project titled **"Leveraging Machine Learning and NLP for Electric Vehicle Market Analysis and Product Launch Success"**. It combines exploratory ###data analysis (EDA), natural language processing (NLP), and machine learning (ML) models to gain insights from EV reviews and forecast market trends.
 
 ## 🔍 Key Features
 
